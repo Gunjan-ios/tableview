@@ -310,3 +310,55 @@ extension HomeViewController : UITextFieldDelegate{
         return true
     }
 }
+// {
+//     "orders": [
+//         {
+//             "order_id": "201",
+//             "user_id": "74",
+//             "total_qty": "21",
+//             "first_name": "jigar1",
+//             "last_name": "jigar2",
+//             "mobile": "1231231231",
+//             "email": "jigar1@gmail.com",
+//             "address": "ahmedabd",
+//             "order_number": "SVEG-1000201",
+//             "order_amount": "",
+//             "order_placed_on": "20 Jan 2021",
+//             "billing_date": "21 Jan 2021",
+//             "total_items": 2,
+//             "items": [
+//                 {
+//                     "order_item_id": "400",
+//                     "order_id": "201",
+//                     "product_id": "5",
+//                     "product_name": "Banana",
+//                     "product_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+//                     "image": "https://digitalfriend.co.in/simo_vegetables/api/assets/uploads/products/banana.jpeg",
+//                     "sale_price": "",
+//                     "total_sale_price": "",
+//                     "purchase_price": "",
+//                     "total_purchase_price": "",
+//                     "unit": "Dozen",
+//                     "quantity": "20"
+//                 },
+//                 {
+//                     "order_item_id": "401",
+//                     "order_id": "201",
+//                     "product_id": "8",
+//                     "product_name": "Orange",
+//                     "product_description": null,
+//                     "image": "https://digitalfriend.co.in/simo_vegetables/api/assets/uploads/products/1610197101orange-fruit-powder-100-gms.jpg",
+//                     "sale_price": "",
+//                     "total_sale_price": "",
+//                     "purchase_price": "",
+//                     "total_purchase_price": "",
+//                     "unit": "Kg",
+//                     "quantity": "1"
+//                 }
+//             ]
+//         }
+//     ],
+//     "total_orders": 1,
+//     "message": "",
+//     "success": 1
+// }
